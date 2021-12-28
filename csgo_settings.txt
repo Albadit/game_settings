@@ -5,5 +5,8 @@ cl_crosshairgap -1.5;
 cl_crosshairsize 2.5;
 
 // Settings
-bind mwheelup + jump;
-bind mwheeldown + jump
+sensitivity 1;
+cl_autowepswitch 0;
+bind mwheelup +jump;
+bind mwheeldown +jump;
+bind space +voicerecord;
