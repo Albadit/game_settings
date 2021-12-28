@@ -10,3 +10,8 @@ cl_autowepswitch 0;
 bind mwheelup +jump;
 bind mwheeldown +jump;
 bind space +voicerecord;
+
+// Map
+cl_radar_always_centered 0;
+cl_radar_scale 0.3;
+cl_radar_icon_scale_min 1;
