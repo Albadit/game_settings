@@ -5,11 +5,13 @@ cl_crosshairgap -1.5;
 cl_crosshairsize 2.5;
 
 // Settings
-sensitivity 1;
+/ dpi 1600
+sensitivity 0.5;
 cl_autowepswitch 0;
 bind mwheelup +jump;
 bind mwheeldown +jump;
 bind space +voicerecord;
+gameinstructor_enable 0;
 
 // Map
 cl_radar_always_centered 0;
