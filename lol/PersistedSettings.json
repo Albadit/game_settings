@@ -169,7 +169,7 @@
                         },
                         {
                             "name": "GameMouseSpeed",
-                            "value": "8"
+                            "value": "12"
                         },
                         {
                             "name": "OSXMouseAcceleration",
@@ -541,7 +541,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.3100"
+                            "value": "0.1900"
                         },
                         {
                             "name": "MusicMute",
@@ -675,19 +675,19 @@
                         },
                         {
                             "name": "evtLevelSpell1",
-                            "value": "[Ctrl][q]"
+                            "value": "[Ctrl][q],[Alt][q]"
                         },
                         {
                             "name": "evtLevelSpell2",
-                            "value": "[Ctrl][w]"
+                            "value": "[Ctrl][w],[Alt][w]"
                         },
                         {
                             "name": "evtLevelSpell3",
-                            "value": "[Ctrl][e]"
+                            "value": "[Ctrl][e],[Alt][e]"
                         },
                         {
                             "name": "evtLevelSpell4",
-                            "value": "[Ctrl][r]"
+                            "value": "[Ctrl][r],[Alt][r]"
                         },
                         {
                             "name": "evtNormalCastAvatarSpell1",
@@ -775,7 +775,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[v]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
@@ -959,11 +959,11 @@
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
-                            "value": "[Alt][d],"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastAvatarSpell2",
-                            "value": "[Alt][f]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem1",
@@ -991,19 +991,19 @@
                         },
                         {
                             "name": "evtSelfCastSpell1",
-                            "value": "[Alt][q]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastSpell2",
-                            "value": "[Alt][w]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastSpell3",
-                            "value": "[Alt][e]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastSpell4",
-                            "value": "[Alt][r]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastVisionItem",
