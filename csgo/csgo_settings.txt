@@ -2,7 +2,7 @@
 cl_crosshairstyle 4;
 cl_crosshairdot 0;
 cl_crosshairgap -1.5;
-cl_crosshairsize 2.5;
+cl_crosshairsize 2;
 
 // Settings
 / dpi 800
