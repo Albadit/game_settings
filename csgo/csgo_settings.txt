@@ -5,7 +5,7 @@ cl_crosshairgap -1.5;
 cl_crosshairsize 2;
 
 // Settings
-/ dpi 800
+/ dpi 1600
 sensitivity 1;
 cl_autowepswitch 0;
 bind mwheelup +jump;
