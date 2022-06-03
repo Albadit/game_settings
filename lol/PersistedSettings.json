@@ -42,19 +42,19 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0026"
+                            "value": "0.0083"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.8065"
+                            "value": "0.7935"
                         },
                         {
                             "name": "ReplayNativeOffsetX",
-                            "value": "0.0000"
+                            "value": "0.1708"
                         },
                         {
                             "name": "ReplayNativeOffsetY",
-                            "value": "0.0000"
+                            "value": "0.7444"
                         },
                         {
                             "name": "Transparency",
@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.1.416.4011"
+                            "value": "12.10.444.2068"
                         },
                         {
                             "name": "CursorOverride",
@@ -161,7 +161,7 @@
                         },
                         {
                             "name": "EnableScreenShake",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
@@ -265,6 +265,10 @@
                             "value": "0.2500"
                         },
                         {
+                            "name": "GlobalScaleReplay",
+                            "value": "1.0000"
+                        },
+                        {
                             "name": "HideEnemySummonerEmotes",
                             "value": "0"
                         },
@@ -334,7 +338,7 @@
                         },
                         {
                             "name": "NumericCooldownFormat",
-                            "value": "1"
+                            "value": "2"
                         },
                         {
                             "name": "ObjectTooltips",
@@ -345,12 +349,20 @@
                             "value": "1.0000"
                         },
                         {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "ScrollSmoothingEnabled",
                             "value": "0"
                         },
                         {
                             "name": "ShopScale",
-                            "value": "0.4444"
+                            "value": "0.4270"
                         },
                         {
                             "name": "ShowAllChannelChat",
@@ -402,7 +414,7 @@
                         },
                         {
                             "name": "ShowSummonerNames",
-                            "value": "2"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSummonerNamesInScoreboard",
@@ -451,11 +463,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1010"
+                            "value": "0.1714"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0611"
+                            "value": "-0.0787"
                         }
                     ]
                 },
@@ -525,7 +537,7 @@
                         },
                         {
                             "name": "AmbienceVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         },
                         {
                             "name": "AnnouncerMute",
@@ -533,7 +545,7 @@
                         },
                         {
                             "name": "AnnouncerVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         },
                         {
                             "name": "MasterMute",
@@ -549,7 +561,7 @@
                         },
                         {
                             "name": "MusicVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         },
                         {
                             "name": "PingsMute",
@@ -557,7 +569,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         },
                         {
                             "name": "SfxMute",
@@ -565,7 +577,7 @@
                         },
                         {
                             "name": "SfxVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         },
                         {
                             "name": "VoiceMute",
@@ -573,7 +585,7 @@
                         },
                         {
                             "name": "VoiceVolume",
-                            "value": "0.7500"
+                            "value": "0.5000"
                         }
                     ]
                 }
@@ -775,7 +787,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[<Unbound>]"
+                            "value": "[v]"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
