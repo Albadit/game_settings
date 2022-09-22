@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.10.444.2068"
+                            "value": "12.18.468.3251"
                         },
                         {
                             "name": "CursorOverride",
@@ -149,7 +149,7 @@
                         },
                         {
                             "name": "CursorScale",
-                            "value": "0.2000"
+                            "value": "0.5000"
                         },
                         {
                             "name": "EnableAudio",
@@ -169,7 +169,7 @@
                         },
                         {
                             "name": "GameMouseSpeed",
-                            "value": "12"
+                            "value": "10"
                         },
                         {
                             "name": "OSXMouseAcceleration",
@@ -430,7 +430,7 @@
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
@@ -451,7 +451,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -463,11 +463,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1714"
+                            "value": "0.1177"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.0787"
+                            "value": "-0.1361"
                         }
                     ]
                 },
@@ -553,7 +553,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.1900"
+                            "value": "0.2100"
                         },
                         {
                             "name": "MusicMute",
@@ -615,7 +615,7 @@
                         },
                         {
                             "name": "evtCameraLockToggle",
-                            "value": "[y]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtCameraSnap",
@@ -755,7 +755,7 @@
                         },
                         {
                             "name": "evtOnUIMouse4Pan",
-                            "value": "[Button 3]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtOpenShop",
@@ -1271,15 +1271,15 @@
                         },
                         {
                             "name": "evtUseItem4",
-                            "value": "[5]"
+                            "value": "[4]"
                         },
                         {
                             "name": "evtUseItem5",
-                            "value": "[6]"
+                            "value": "[Button 5]"
                         },
                         {
                             "name": "evtUseItem6",
-                            "value": "[7]"
+                            "value": "[Button 4]"
                         },
                         {
                             "name": "evtUseItem7",
@@ -1287,7 +1287,7 @@
                         },
                         {
                             "name": "evtUseVisionItem",
-                            "value": "[4]"
+                            "value": "[5]"
                         }
                     ]
                 },
