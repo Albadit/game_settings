@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.18.468.3251"
+                            "value": "12.22.479.5277"
                         },
                         {
                             "name": "CursorOverride",
@@ -180,6 +180,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "RecommendJunglePaths",
+                            "value": "1"
+                        },
+                        {
                             "name": "RelativeTeamColors",
                             "value": "1"
                         },
@@ -211,6 +215,10 @@
                         {
                             "name": "CameraLockMode",
                             "value": "0"
+                        },
+                        {
+                            "name": "ChatChannelVisibility",
+                            "value": "2"
                         },
                         {
                             "name": "ChatScale",
@@ -386,7 +394,7 @@
                         },
                         {
                             "name": "ShowFPSAndLatency",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowHealthBarShake",
@@ -394,6 +402,10 @@
                         },
                         {
                             "name": "ShowNeutralCamps",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowOffScreenPointsOfInterest",
                             "value": "1"
                         },
                         {
@@ -407,6 +419,10 @@
                         {
                             "name": "ShowSpellCosts",
                             "value": "0"
+                        },
+                        {
+                            "name": "ShowSpellRecommendation",
+                            "value": "1"
                         },
                         {
                             "name": "ShowStatsPanel_StatStones",
@@ -430,7 +446,7 @@
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "SmartCastWithIndicator_CastWhenNewSpellSelected",
@@ -463,11 +479,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1177"
+                            "value": "0.1130"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1361"
+                            "value": "-0.1120"
                         }
                     ]
                 },
@@ -557,7 +573,7 @@
                         },
                         {
                             "name": "MusicMute",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MusicVolume",
@@ -656,6 +672,10 @@
                         {
                             "name": "evtChatHistory",
                             "value": "[z]"
+                        },
+                        {
+                            "name": "evtDisableDirectedCamera",
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtDragScrollLock",
@@ -778,8 +798,12 @@
                             "value": "[<Unbound>]"
                         },
                         {
+                            "name": "evtPlayerCursorPingAreaIsWarded",
+                            "value": "[<Unbound>]"
+                        },
+                        {
                             "name": "evtPlayerHoldPosition",
-                            "value": "[s]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerMoveClick",
@@ -1043,11 +1067,11 @@
                         },
                         {
                             "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastItem1",
@@ -1075,19 +1099,19 @@
                         },
                         {
                             "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastVisionItem",
@@ -1127,19 +1151,19 @@
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell1",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell2",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell3",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorSpell4",
-                            "value": "null"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorVisionItem",
@@ -1179,19 +1203,19 @@
                         },
                         {
                             "name": "evtSmartPlusSelfCastSpell1",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][q],"
                         },
                         {
                             "name": "evtSmartPlusSelfCastSpell2",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][w],"
                         },
                         {
                             "name": "evtSmartPlusSelfCastSpell3",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][e]"
                         },
                         {
                             "name": "evtSmartPlusSelfCastSpell4",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][r]"
                         },
                         {
                             "name": "evtSmartPlusSelfCastVisionItem",
