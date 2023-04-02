@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "12.22.479.5277"
+                            "value": "13.6.499.7758"
                         },
                         {
                             "name": "CursorOverride",
@@ -353,6 +353,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ObjectiveVoteScale",
+                            "value": "1.0000"
+                        },
+                        {
                             "name": "PracticeToolScale",
                             "value": "1.0000"
                         },
@@ -425,6 +429,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "ShowSpellRecommendations",
+                            "value": "1"
+                        },
+                        {
                             "name": "ShowStatsPanel_StatStones",
                             "value": "0"
                         },
@@ -467,7 +475,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -479,11 +487,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1130"
+                            "value": "0.1052"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1120"
+                            "value": "-0.1231"
                         }
                     ]
                 },
@@ -1279,6 +1287,10 @@
                         },
                         {
                             "name": "evtToggleMinionHealthBars",
+                            "value": "[<Unbound>]"
+                        },
+                        {
+                            "name": "evtToggleScoreboardGoldDisplay",
                             "value": "[<Unbound>]"
                         },
                         {
