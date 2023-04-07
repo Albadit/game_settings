@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.7.502.2251"
+                            "value": "13.7.502.2586"
                         },
                         {
                             "name": "CursorOverride",
@@ -414,11 +414,11 @@
                         },
                         {
                             "name": "ShowPlayerPerks",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -623,7 +623,7 @@
                     "settings": [
                         {
                             "name": "evntPlayerPing",
-                            "value": "[<Unbound>]"
+                            "value": "[a]"
                         },
                         {
                             "name": "evntPlayerPingCursor",
@@ -635,7 +635,7 @@
                         },
                         {
                             "name": "evntPlayerPingDanger",
-                            "value": "[a]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtCameraLockToggle",
