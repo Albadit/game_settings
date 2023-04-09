@@ -141,7 +141,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.7.502.2586"
+                            "value": "13.7.502.7579"
                         },
                         {
                             "name": "CursorOverride",
@@ -197,7 +197,7 @@
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ThemeMusic",
@@ -487,11 +487,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1083"
+                            "value": "0.1068"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1296"
+                            "value": "-0.1352"
                         }
                     ]
                 },
@@ -695,23 +695,23 @@
                         },
                         {
                             "name": "evtEmoteDance",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][3]"
                         },
                         {
                             "name": "evtEmoteJoke",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][1]"
                         },
                         {
                             "name": "evtEmoteLaugh",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][4]"
                         },
                         {
                             "name": "evtEmoteTaunt",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][2]"
                         },
                         {
                             "name": "evtEmoteToggle",
-                            "value": "[<Unbound>]"
+                            "value": "[Ctrl][5]"
                         },
                         {
                             "name": "evtLevelSpell1",
@@ -1019,27 +1019,27 @@
                         },
                         {
                             "name": "evtSelfCastItem1",
-                            "value": "[Ctrl][1]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem2",
-                            "value": "[Ctrl][2]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem3",
-                            "value": "[Ctrl][3]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem4",
-                            "value": "[Ctrl][4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem5",
-                            "value": "[Ctrl][Button 5]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastItem6",
-                            "value": "[Ctrl][Button 4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSelfCastSpell1",
@@ -1059,7 +1059,7 @@
                         },
                         {
                             "name": "evtSelfCastVisionItem",
-                            "value": "[Ctrl][5]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtSetVisibilityTeam1",
