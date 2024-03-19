@@ -25,6 +25,9 @@ bind mwheeldown +jump;
 bind space +voicerecord;
 gameinstructor_enable 0;
 
+// Viewmodel
+cl_usenewbob false;
+
 // Map
 cl_radar_always_centered 0;
 cl_radar_scale 0.3;
